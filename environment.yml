@@ -1,0 +1,13 @@
+name: line-bot
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - flask
+  - pip
+  - pip:
+    - line-bot-sdk
+    - python-dotenv
+    - pyngrok
+    - gunicorn
