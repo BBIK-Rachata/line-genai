@@ -1,0 +1,15 @@
+flask
+line-bot-sdk==3.16.0
+SQLAlchemy
+python-dotenv
+requests
+openai>=1.58.1,<2.0.0
+scikit-learn
+pytesseract
+pillow
+langchain-core>=0.2.7,<0.3.0
+langchain-community>=0.2.5,<0.3.0
+langchain-openai==0.1.25
+langchain-experimental==0.0.61
+tiktoken
+faiss-cpu
