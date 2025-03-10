@@ -1,1 +1,13 @@
+# Ignore environment files
 .env
+
+# Ignore specific JSON data file
+combined_scraped_data.json
+
+# Ignore the folder
+SRISAWAD/static/examples/
+SRISAWAD/venv
+
+# Ignore the csv file
+customers.csv
+
